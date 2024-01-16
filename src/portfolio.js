@@ -238,7 +238,7 @@ const workExperiences = {
       role: "Summer Academy Intern",
       company: "Dell Technologies",
       companylogo: require("./assets/images/dell2Logo.png"),
-      date: "May 2017 – May 2018",
+      date: "Aug 2023 – Sept 2023",
       descBullets: [
         "Practiced Information Storage Management (ISM) along with Design Thing and Emotional Intelligence Tools.",
         "Developed an app to tackle urbanization and global warming — React - Nodejs - Kubernetes - GCP - YAML"
